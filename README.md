@@ -1,4 +1,5 @@
-![Header](https://github.com/Nik0590/Nik0590/blob/main/assets/Frame%1.png)
+![Header](https://github.com/Nik0590/Nik0590/blob/main/assets/Frame%201.png)
+
 ## I'm a QA Engineer.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/10iYS7YF7HbjcjeBA2UwklSJ0hi0aJQzU/view?usp=sharing/)
