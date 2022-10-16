@@ -1,3 +1,4 @@
+![Header](https://github.com/Nik0590/Nik0590/blob/main/assets/Frame%1.svg)
 ## I'm a QA Engineer.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/10iYS7YF7HbjcjeBA2UwklSJ0hi0aJQzU/view?usp=sharing/)
@@ -20,11 +21,9 @@
 
 ### Testing Projects
 
-- [Unit]
-- [UI POM]
-- [API REST Assured]
-- [Final Project]
-
+- [Unit](https://github.com/Nik0590/QA-java-diplom-1/tree/develop1)
+- [UI POM](https://github.com/Nik0590/Diplom_3)
+- [API REST Assured](https://github.com/Nik0590/Diplom_2)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Primanka65/)
